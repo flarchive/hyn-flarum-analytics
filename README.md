@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of hyn/flarum-analytics.** Not for installation: use [Packagist](https://packagist.org/packages/hyn/flarum-analytics) or the [upstream repository](https://github.com/FriendsOfFlarum/analytics).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/hyn-flarum-analytics/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0`
+**18** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/hyn-flarum-analytics/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.10.0` | 2020-11-09 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/hyn-flarum-analytics/tree/archive/v0.10.0) |
+| `0.10.1` | 2020-11-25 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/hyn-flarum-analytics/tree/archive/v0.10.1) |
+| `0.11.0` | 2020-12-17 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/hyn-flarum-analytics/tree/archive/v0.11.0) |
+| `0.12.0` | 2021-03-19 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/hyn-flarum-analytics/tree/archive/v0.12.0) |
+| `0.2.0` | 2015-11-19 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/hyn-flarum-analytics/tree/archive/v0.2.0) |
+| `0.2.1` | 2015-12-24 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/hyn-flarum-analytics/tree/archive/v0.2.1) |
+| `0.3.0` | 2016-01-25 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/hyn-flarum-analytics/tree/archive/v0.3.0) |
+| `0.3.1` | 2016-01-30 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/hyn-flarum-analytics/tree/archive/v0.3.1) |
+| `0.3.2` | 2016-02-21 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/hyn-flarum-analytics/tree/archive/v0.3.2) |
+| `0.3.3` | 2016-02-23 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/hyn-flarum-analytics/tree/archive/v0.3.3) |
+
+[View all 18 versions](https://github.com/flarchive/hyn-flarum-analytics/tags)
 
 Catalog entry: [packages/hyn-flarum-analytics.json](https://github.com/flarchive/archive-index/blob/main/packages/hyn-flarum-analytics.json)
 
